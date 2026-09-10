@@ -1,0 +1,69 @@
+{
+    "evaluation_set": "golden_200",
+    "training_examples": 19947,
+    "test_examples": 200,
+    "accuracy": 0.225,
+    "classification_report": {
+        "Billing / Payment": {
+            "precision": 0.3548387096774194,
+            "recall": 0.4230769230769231,
+            "f1-score": 0.38596491228070173,
+            "support": 26.0
+        },
+        "Cancellation / Switching / Retention": {
+            "precision": 0.0625,
+            "recall": 0.1,
+            "f1-score": 0.07692307692307693,
+            "support": 10.0
+        },
+        "Customer Service Issue": {
+            "precision": 0.21428571428571427,
+            "recall": 0.09375,
+            "f1-score": 0.13043478260869565,
+            "support": 32.0
+        },
+        "Device / Technical Issue": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 13.0
+        },
+        "General Complaint / Other": {
+            "precision": 0.2727272727272727,
+            "recall": 0.4838709677419355,
+            "f1-score": 0.3488372093023256,
+            "support": 31.0
+        },
+        "Network / Connectivity": {
+            "precision": 0.375,
+            "recall": 0.21818181818181817,
+            "f1-score": 0.27586206896551724,
+            "support": 55.0
+        },
+        "Order / Upgrade / iPhone": {
+            "precision": 0.07407407407407407,
+            "recall": 0.08695652173913043,
+            "f1-score": 0.08,
+            "support": 23.0
+        },
+        "Website / App Issue": {
+            "precision": 0.09090909090909091,
+            "recall": 0.1,
+            "f1-score": 0.09523809523809523,
+            "support": 10.0
+        },
+        "accuracy": 0.225,
+        "macro avg": {
+            "precision": 0.18054185770919642,
+            "recall": 0.1882295288424759,
+            "f1-score": 0.17415751816480154,
+            "support": 200.0
+        },
+        "weighted avg": {
+            "precision": 0.24200144688047914,
+            "recall": 0.225,
+            "f1-score": 0.21878489882931884,
+            "support": 200.0
+        }
+    }
+}

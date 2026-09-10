@@ -1,0 +1,9 @@
+,Billing / Payment,Cancellation / Switching / Retention,Customer Service Issue,Device / Technical Issue,General Complaint / Other,Network / Connectivity,Order / Upgrade / iPhone,Website / App Issue
+Billing / Payment,3,1,0,0,1,0,0,0
+Cancellation / Switching / Retention,0,0,0,0,1,1,0,0
+Customer Service Issue,1,0,1,0,1,2,1,0
+Device / Technical Issue,1,1,0,0,0,0,0,1
+General Complaint / Other,2,1,0,0,1,0,2,0
+Network / Connectivity,3,1,1,0,2,4,0,0
+Order / Upgrade / iPhone,3,1,0,0,1,0,0,0
+Website / App Issue,0,0,2,0,0,0,0,0

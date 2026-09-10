@@ -1,0 +1,69 @@
+{
+    "accuracy": 0.225,
+    "training_examples": 160,
+    "test_examples": 40,
+    "number_of_intents": 8,
+    "classification_report": {
+        "Billing / Payment": {
+            "precision": 0.23076923076923078,
+            "recall": 0.6,
+            "f1-score": 0.3333333333333333,
+            "support": 5.0
+        },
+        "Cancellation / Switching / Retention": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 2.0
+        },
+        "Customer Service Issue": {
+            "precision": 0.25,
+            "recall": 0.16666666666666666,
+            "f1-score": 0.2,
+            "support": 6.0
+        },
+        "Device / Technical Issue": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 3.0
+        },
+        "General Complaint / Other": {
+            "precision": 0.14285714285714285,
+            "recall": 0.16666666666666666,
+            "f1-score": 0.15384615384615385,
+            "support": 6.0
+        },
+        "Network / Connectivity": {
+            "precision": 0.5714285714285714,
+            "recall": 0.36363636363636365,
+            "f1-score": 0.4444444444444444,
+            "support": 11.0
+        },
+        "Order / Upgrade / iPhone": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 5.0
+        },
+        "Website / App Issue": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 2.0
+        },
+        "accuracy": 0.225,
+        "macro avg": {
+            "precision": 0.14938186813186813,
+            "recall": 0.1621212121212121,
+            "f1-score": 0.14145299145299145,
+            "support": 40.0
+        },
+        "weighted avg": {
+            "precision": 0.24491758241758238,
+            "recall": 0.225,
+            "f1-score": 0.21696581196581194,
+            "support": 40.0
+        }
+    }
+}
